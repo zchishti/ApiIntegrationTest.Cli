@@ -5,7 +5,7 @@ This project consumes TaxJar Api. TaxRateSearchService calls the TaxAPI to searc
 Available methods
 - Get tax rate by zipcode
 
-##How to Use
+## How to Use
 
 Run app in termial. The app uses command line args. 
 
