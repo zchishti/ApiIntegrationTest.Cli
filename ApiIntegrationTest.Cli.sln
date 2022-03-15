@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiIntegrationTest.Cli", "ApiIntegrationTest.Cli\ApiIntegrationTest.Cli.csproj", "{152C6E66-CA67-4460-BBD6-241F9F2EC721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiIntegrationTest.Cli.Tests.Unit", "ApiIntegrationTest.Cli.Tests.Unit\ApiIntegrationTest.Cli.Tests.Unit.csproj", "{F9ECFBD6-97B9-49C7-B274-33FD21693D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152C6E66-CA67-4460-BBD6-241F9F2EC721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152C6E66-CA67-4460-BBD6-241F9F2EC721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152C6E66-CA67-4460-BBD6-241F9F2EC721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152C6E66-CA67-4460-BBD6-241F9F2EC721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9ECFBD6-97B9-49C7-B274-33FD21693D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9ECFBD6-97B9-49C7-B274-33FD21693D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9ECFBD6-97B9-49C7-B274-33FD21693D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9ECFBD6-97B9-49C7-B274-33FD21693D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB51347-7874-4EE6-BB05-FD460AE9071F}
+	EndGlobalSection
+EndGlobal
